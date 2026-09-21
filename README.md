@@ -1,5 +1,7 @@
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Choo%20Zhi%20Cheng&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=CS%20%26%20AI%20Student%20%7C%20Builder&descSize=18&descAlignY=68" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Choo%20Zhi%20Cheng&fontSize=50&fontColor=ffffff" alt="banner" />
+</div>
 
 <!-- Typing animation -->
 <div align="center">
@@ -91,4 +93,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer" alt="footer" />
+</div>
